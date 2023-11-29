@@ -1,4 +1,3 @@
-# pygame-flappy-bird
 Simple flappy bird game using pygame.
 Each time you pass a pipe speed increase.
 
